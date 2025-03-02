@@ -60,11 +60,7 @@ md-select.md-default-theme .md-select-value, md-select .md-select-value {
 .md-button.md-default-theme.md-hue-2.md-accent.md-fab:not([disabled]) md-icon, .md-button.md-hue-2.md-accent.md-fab:not([disabled]) md-icon, .md-button.md-default-theme.md-hue-2.md-accent.md-raised:not([disabled]) md-icon, .md-button.md-hue-2.md-accent.md-raised:not([disabled]) md-icon {
     color: rgb(38, 50, 56);
 }
-/*
-.md-default-theme.md-background.md-bg {
-    color: rgb(255 255 255) !important;
-}
-*/
+
 .md-default-theme.md-background.md-hue-1.md-bg {
     background-color: rgb(38, 50, 56);
 }
