@@ -14,14 +14,15 @@ wget https://raw.githubusercontent.com/RobertMochnacky/sogo-themes/main/dark-red
 Update or create /opt/mailcow-dockerized/docker-compose.override.yml:
 
 ```
-version: '2.1'
-
 services:
   sogo-mailcow:
     volumes:
       - ./data/conf/sogo/custom-theme.css:/usr/lib/GNUstep/SOGo/WebServerResources/css/theme-default.css:z
 ```
-
+Restart containers:
+```
+cd /opt/mailcow-dockerized/ && docker compose restart memcached-mailcow sogo-mailcow
+```
 Recreate containers:
 ```
 cd /opt/mailcow-dockerized/ && docker compose up -d
