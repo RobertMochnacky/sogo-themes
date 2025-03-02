@@ -1,7 +1,7 @@
 # sogo-themes
 SOGo themes for web mail client used in mailcow dockerized
 
-Created by mailcow official documentation - https://docs.mailcow.email/manual-guides/SOGo/u_e-sogo/#apply-custom-sogo-themeDark red theme for SOGo web mail client used in mailcow dockerized
+Created by mailcow official documentation - https://docs.mailcow.email/manual-guides/SOGo/u_e-sogo/#apply-custom-sogo-theme
 
 **How to install**
 -------------------
