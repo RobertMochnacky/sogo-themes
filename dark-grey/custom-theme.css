@@ -73,3 +73,10 @@ md-select.md-default-theme .md-select-value.md-select-placeholder, md-select .md
 md-select.md-default-theme .md-select-icon, md-select .md-select-icon {
     color: rgb(255 255 255);
 }
+
+.md-autocomplete.md-default-theme.md-hue-1.md-bg {
+    background-color: rgb(178, 214, 211);
+}
+.md-autocomplete.md-default-theme.md-hue-1 input, .md-autocomplete.md-hue-1 input {
+    color: rgb(255, 255, 255);
+}
