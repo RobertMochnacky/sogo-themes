@@ -51,3 +51,12 @@ md-select.md-default-theme .md-select-value, md-select .md-select-value {
 .md-button.md-default-theme.md-hue-2.md-accent[disabled] md-icon, .md-button.md-hue-2.md-accent[disabled] md-icon, .md-button.md-default-theme.md-hue-2.md-fab[disabled] md-icon, .md-button.md-hue-2.md-fab[disabled] md-icon, .md-button.md-default-theme.md-hue-2.md-raised[disabled] md-icon, .md-button.md-hue-2.md-raised[disabled] md-icon, .md-button.md-default-theme.md-hue-2.md-warn[disabled] md-icon, .md-button.md-hue-2.md-warn[disabled] md-icon, .md-button.md-default-theme.md-hue-2[disabled] md-icon, .md-button.md-hue-2[disabled] md-icon {
     color: rgb(255 255 255);
 }
+
+.md-button.md-default-theme.md-hue-2.md-accent.md-fab, .md-button.md-hue-2.md-accent.md-fab, .md-button.md-default-theme.md-hue-2.md-accent.md-raised, .md-button.md-hue-2.md-accent.md-raised {
+    background-color: rgb(255 255 255);
+    color: rgba(0, 0, 0, 0.87);
+}
+
+.md-button.md-default-theme.md-hue-2.md-accent.md-fab:not([disabled]) md-icon, .md-button.md-hue-2.md-accent.md-fab:not([disabled]) md-icon, .md-button.md-default-theme.md-hue-2.md-accent.md-raised:not([disabled]) md-icon, .md-button.md-hue-2.md-accent.md-raised:not([disabled]) md-icon {
+    color: rgb(38, 50, 56);
+}
