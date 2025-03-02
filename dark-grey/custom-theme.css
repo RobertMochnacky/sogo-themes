@@ -53,7 +53,7 @@ md-select.md-default-theme .md-select-value, md-select .md-select-value {
 }
 
 .md-button.md-default-theme.md-hue-2.md-accent.md-fab, .md-button.md-hue-2.md-accent.md-fab, .md-button.md-default-theme.md-hue-2.md-accent.md-raised, .md-button.md-hue-2.md-accent.md-raised {
-    background-color: rgb(255 255 255);
+    background-color: rgb(38, 50, 56);
     color: rgba(0, 0, 0, 0.87);
 }
 
