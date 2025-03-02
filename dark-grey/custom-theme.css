@@ -68,3 +68,12 @@ md-select.md-default-theme .md-select-value, md-select .md-select-value {
 .md-default-theme.md-background.md-hue-1.md-bg {
     background-color: rgb(38, 50, 56);
 }
+
+md-select.md-default-theme .md-select-value.md-select-placeholder, md-select .md-select-value.md-select-placeholder {
+    color: rgb(255 255 255);
+}
+
+/* Login page select icon */
+md-select.md-default-theme .md-select-icon, md-select .md-select-icon {
+    color: rgb(255 255 255);
+}
