@@ -81,11 +81,34 @@ md-select.md-default-theme .md-select-icon, md-select .md-select-icon {
     color: rgb(255, 255, 255);
 }
 
-md-dialog {
-  background-color: #1e1b1b14 !important;
+/* Mail editor. Headers */
+header md-chips .md-chips .md-chip-input-container input{color:rgba(235 235 235)}
+header md-chips .md-chips .md-chip-input-container input::-webkit-input-placeholder{color:rgba(235, 235, 235 0.7)}
+header md-chips .md-chips .md-chip-input-container input:-ms-input-placeholder{color:rgba(235, 235, 235 0.7)}
+header md-chips .md-chips .md-chip-input-container input::-ms-input-placeholder{color:rgba(197, 197, 197,0.7)}
+header md-chips .md-chips .md-chip-input-container input::placeholder{color:rgba(235, 235, 235 0.7)}
+header md-chips .md-chips .md-chip-input-container input:-moz-placeholder,md-chips.md-default-theme .md-chips .md-chip-input-container input::-moz-placeholder, md-chips .md-chips .md-chip-input-container input::-moz-placeholder{color:rgba(235, 235, 235 0.7);opacity:1}
+header md-chips md-chip.md-focused{background:rgb(32, 32, 32);color:rgba(255,255,255,0.87)}
+header md-chips md-chip.md-focused md-icon{color:rgba(255,255,255,0.87)}
+header md-chips .md-chip-remove-container button.md-chip-remove md-icon,md-chips.md-default-theme .md-chip-remove-container buttonmd-chip-remove md-icon, md-chips .md-chip-remove-container buttonmd-chip-remove md-icon{fill:rgba(155, 0, 0, 0.7);color:rgba(223, 223, 223, 0.54)}
+md-toolbar md-autocomplete.md-margin.md-default-theme.md-bg.md-hue-1.flex {
+    background-color: rgb(63 59 59);
 }
-
-.ck.ck-editor__main > .ck-editor__editable {
-  background: #1e1b1b14;
-  border-radius: 0;
+md-toolbar md-autocomplete.md-default-theme.md-hue-1 input, md-autocomplete.md-hue-1 input {
+    color: rgb(235 235 235);
 }
+.md-autocomplete-standard-list-container.md-default-theme .md-autocomplete-suggestion, .md-autocomplete-standard-list-container .md-autocomplete-suggestion, .md-autocomplete-suggestions-container.md-default-theme .md-autocomplete-suggestion, .md-autocomplete-suggestions-container .md-autocomplete-suggestion {
+    color: rgb(197 197 197);
+    background-color: rgb(63 59 59)
+}
+.md-autocomplete-standard-list-container.md-default-theme .md-autocomplete-suggestion:hover, 
+.md-autocomplete-standard-list-container .md-autocomplete-suggestion:hover, 
+.md-autocomplete-suggestions-container.md-default-theme .md-autocomplete-suggestion:hover, 
+.md-autocomplete-suggestions-container .md-autocomplete-suggestion:hover {
+    color: rgb(205 205 205);
+    background-color: rgb(59, 55, 55);
+}
+label.pseudo-input-label {
+    color: rgb(197 197 197);
+}
+/* End Mail editor. Headers */
