@@ -99,7 +99,7 @@ md-toolbar md-autocomplete.md-default-theme.md-hue-1 input, md-autocomplete.md-h
 }
 .md-autocomplete-standard-list-container.md-default-theme .md-autocomplete-suggestion, .md-autocomplete-standard-list-container .md-autocomplete-suggestion, .md-autocomplete-suggestions-container.md-default-theme .md-autocomplete-suggestion, .md-autocomplete-suggestions-container .md-autocomplete-suggestion {
     color: rgb(197 197 197);
-    background-color: rgb(63 59 59)
+    background-color: rgb(115 115 115)
 }
 .md-autocomplete-standard-list-container.md-default-theme .md-autocomplete-suggestion:hover, 
 .md-autocomplete-standard-list-container .md-autocomplete-suggestion:hover, 
