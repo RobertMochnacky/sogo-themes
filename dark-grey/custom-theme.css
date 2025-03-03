@@ -92,7 +92,7 @@ header md-chips md-chip.md-focused{background:rgb(32, 32, 32);color:rgba(255,255
 header md-chips md-chip.md-focused md-icon{color:rgba(255,255,255,0.87)}
 header md-chips .md-chip-remove-container button.md-chip-remove md-icon,md-chips.md-default-theme .md-chip-remove-container buttonmd-chip-remove md-icon, md-chips .md-chip-remove-container buttonmd-chip-remove md-icon{fill:rgba(155, 0, 0, 0.7);color:rgba(223, 223, 223, 0.54)}
 md-toolbar md-autocomplete.md-margin.md-default-theme.md-bg.md-hue-1.flex {
-    background-color: rgb(63 59 59);
+    background-color: rgb(115 115 115);
 }
 md-toolbar md-autocomplete.md-default-theme.md-hue-1 input, md-autocomplete.md-hue-1 input {
     color: rgb(235 235 235);
