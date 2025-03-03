@@ -85,3 +85,7 @@ md-dialog {
   background-color: #1e1b1b14 !important;
 }
 
+.ck.ck-editor__main > .ck-editor__editable {
+  background: #1e1b1b14;
+  border-radius: 0;
+}
