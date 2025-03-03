@@ -117,7 +117,7 @@ md-menu-content.md-default-theme md-menu-item, md-menu-content md-menu-item {
 }
 
 md-icon {
-    color: rgba(84, 195, 206, 0.99);
+    color: rgb(84, 195, 206);
 }
 
 .md-button.md-fab:hover {
