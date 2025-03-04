@@ -263,7 +263,7 @@ md-dialog {
 }
 
 /* Calendar Week text color */
-.sg-calendar-tile-week {
+.sg-calendar-tile-week span {
   color: rgb(84, 195, 206)!important;
 }
 
