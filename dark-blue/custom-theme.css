@@ -256,3 +256,8 @@ md-dialog {
 .md-default-theme.md-primary.md-fg {
   color: rgb(84, 195, 206)!important;
 }
+
+/* Calendar datapicker color */
+.md-datepicker-input {
+  color: rgb(84, 195, 206);
+}
