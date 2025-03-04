@@ -251,3 +251,8 @@ sg-avatar-image .material-icons, sg-avatar-image md-icon {
 md-dialog {
   color: rgba(0, 0, 0, 0.70);
 }
+
+/* Email storage space utilization text color */
+.md-default-theme.md-primary.md-fg {
+  color: rgb(84, 195, 206);
+}
