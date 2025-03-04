@@ -254,5 +254,5 @@ md-dialog {
 
 /* Email storage space utilization text color */
 .md-default-theme.md-primary.md-fg {
-  color: rgb(84, 195, 206);
+  color: rgb(84, 195, 206)!important;
 }
