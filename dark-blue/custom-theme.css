@@ -240,3 +240,9 @@ md-tabs.md-default-theme md-ink-bar, md-tabs md-ink-bar {
 md-select-menu.md-default-theme md-content md-option[selected].md-focused, md-select-menu md-content md-option[selected].md-focused, md-select-menu.md-default-theme md-content md-option[selected]:focus, md-select-menu md-content md-option[selected]:focus {
   color: rgb(84, 195, 206);
 }
+/* End of Mailbox settings */
+
+/* Avatar/Icon color */
+.md-avatar md-icon, .md-avatar::before, sg-avatar-image .material-icons, sg-avatar-image md-icon {
+  color: rgb(84, 195, 206, 0.90);
+}
