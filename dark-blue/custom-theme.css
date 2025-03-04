@@ -246,3 +246,8 @@ md-select-menu.md-default-theme md-content md-option[selected].md-focused, md-se
 sg-avatar-image .material-icons, sg-avatar-image md-icon {
   color: rgb(84, 195, 206)!important;
 }
+
+/* Mailtext color */
+md-dialog {
+  color: rgba(0, 0, 0, 0.70);
+}
