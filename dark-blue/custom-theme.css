@@ -214,6 +214,13 @@ main.view.md-default-theme.md-background.md-hue-1.md-bg {
 }
 /* End Logo screen */
 
+/* Atry to change attachment loading color */
 .md-default-theme.md-warn.md-bg {
   background-color: rgba(84, 195, 206, 0.50);
+}
+
+/* Webmail right top corner with email address/user logged in */
+md-toolbar.md-default-theme.md-hue-2:not(.md-menu-toolbar), md-toolbar.md-hue-2:not(.md-menu-toolbar) {
+  background-color: rgb(41, 39, 39);
+  color: rgba(84, 195, 206, 0.50);
 }
