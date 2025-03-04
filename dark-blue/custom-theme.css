@@ -121,7 +121,7 @@ md-icon {
 }
 
 .md-button.md-fab:hover {
-    background-color: rgb(205, 154, 154);
+    background-color: rgba(84, 195, 206, 0.5);
 }
 
 .md-autocomplete.md-default-theme.md-hue-1.md-bg {
