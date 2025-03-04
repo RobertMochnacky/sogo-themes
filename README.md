@@ -9,7 +9,7 @@ Download theme to /opt/mailcow-dockerized/data/conf/sogo/
 
 ```
 cd /opt/mailcow-dockerized/data/conf/sogo/
-wget https://raw.githubusercontent.com/RobertMochnacky/sogo-themes/main/dark-red/custom-theme.css
+wget https://raw.githubusercontent.com/RobertMochnacky/sogo-themes/main/dark-*<color>*/custom-theme.css
 ```
 Update or create /opt/mailcow-dockerized/docker-compose.override.yml:
 
