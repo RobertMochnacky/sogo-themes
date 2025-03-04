@@ -225,6 +225,7 @@ md-toolbar.md-default-theme.md-hue-2:not(.md-menu-toolbar), md-toolbar.md-hue-2:
   color: rgb(84, 195, 206);
 }
 
+/* Mailbox settings */
 /* Tab color */
 md-tabs .md-tab.md-active {
   color: rgba(84, 195, 206, 0.50);
@@ -233,4 +234,9 @@ md-tabs .md-tab.md-active {
 md-tabs.md-default-theme md-ink-bar, md-tabs md-ink-bar {
   background: rgba(84, 195, 206, 0.50);
   color: rgba(84, 195, 206, 0.50);
+}
+
+/* Dropdown highlight color */
+md-select-menu.md-default-theme md-content md-option[selected].md-focused, md-select-menu md-content md-option[selected].md-focused, md-select-menu.md-default-theme md-content md-option[selected]:focus, md-select-menu md-content md-option[selected]:focus {
+  color: rgb(84, 195, 206);
 }
