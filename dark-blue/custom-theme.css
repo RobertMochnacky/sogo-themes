@@ -262,11 +262,6 @@ md-dialog {
   color: rgb(84, 195, 206);
 }
 
-/* Calendar Week text color */
-.sg-calendar-tile-week span {
-  color: rgb(84, 195, 206)!important;
-}
-
 /* Calendar date number text Color */
 .sg-calendar-tile-header {
   color: rgb(84,195,206)!important;
