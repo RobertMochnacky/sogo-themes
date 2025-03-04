@@ -244,5 +244,7 @@ md-select-menu.md-default-theme md-content md-option[selected].md-focused, md-se
 
 /* Avatar/Icon color */
 .md-avatar md-icon, .md-avatar::before, sg-avatar-image .material-icons, sg-avatar-image md-icon {
-  color: rgb(84, 195, 206, 0.90);
+  color: rgb(84, 195, 206);
+  font-family: "Material Icons";
+  font-size: 40px;
 }
